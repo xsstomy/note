@@ -1,6 +1,7 @@
 [JavaScriptStyle](https://github.com/airbnb/javascript)
 ## JavaScript基础学习资料  
-1. [百度前端技术学院](http://ife.baidu.com/task/all)
+1. [百度前端技术学院 HTML CSS UI](http://ife.baidu.com/task/all)
+2. [JavaScript MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
 ## 前端框架
 1. [React](https://github.com/facebook/react)
