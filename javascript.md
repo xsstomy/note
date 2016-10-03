@@ -33,8 +33,11 @@
 1. [React](https://github.com/facebook/react)
 
 > 1. 数据管理
+>
 >   [Redux](https://github.com/reactjs/redux)
+>
 > 2. UI组件 
+
 2. [Vue](https://github.com/vuejs/vue)
 
 ## 其他开源库
