@@ -19,6 +19,8 @@
 13. [Storejs](https://github.com/marcuswestin/store.js)  local storage 浏览器本地数据存储
 14. [Favicojs](https://github.com/ejci/favico.js) 网站图标库
 15. [Chartjs](https://github.com/chartjs/Chart.js)  图表库
+16. [Base64js](https://github.com/dankogai/js-base64) base64 
+17. [Paperjs](https://github.com/paperjs/paper.js)  paperjs canvas
 
 
 
@@ -28,8 +30,7 @@
 
 
 
-
-## 前端框架
+## 框架
 1. [React](https://github.com/facebook/react)
 
 > 1. 数据管理
@@ -40,6 +41,9 @@
 
 2. [Vue](https://github.com/vuejs/vue)
 
+3. [Node.js](https://nodejs.org/en/)
+
 ## 其他开源库
 1. 富文本编辑器[Quill Rich Text Editor](https://github.com/quilljs/quill/)
-1. PDF生成库 [jsPDF](https://github.com/MrRio/jsPDF)
+2. PDF生成库 [jsPDF](https://github.com/MrRio/jsPDF)
+3. api文档生成库 [slate](https://github.com/lord/slate)
