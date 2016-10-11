@@ -21,7 +21,7 @@
 15. [Chartjs](https://github.com/chartjs/Chart.js)  图表库
 16. [Base64js](https://github.com/dankogai/js-base64) base64 
 17. [Paperjs](https://github.com/paperjs/paper.js)  paperjs canvas
-
+18. [anyproxy](https://github.com/alibaba/anyproxy/)  http/https代理
 
 
 
