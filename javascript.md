@@ -42,8 +42,11 @@
 2. [Vue](https://github.com/vuejs/vue)
 
 3. [Node.js](https://nodejs.org/en/)
+> 1. [webdriver](https://github.com/webdriverio/webdriverio/)  操作浏览器或邮箱	
+
 
 ## 其他开源库
 1. 富文本编辑器[Quill Rich Text Editor](https://github.com/quilljs/quill/)
+2. 火狐PDF生成库  [PDF](https://github.com/mozilla/pdf.js)
 2. PDF生成库 [jsPDF](https://github.com/MrRio/jsPDF)
 3. api文档生成库 [slate](https://github.com/lord/slate)
