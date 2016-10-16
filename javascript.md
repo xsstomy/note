@@ -48,5 +48,6 @@
 ## 其他开源库
 1. 富文本编辑器[Quill Rich Text Editor](https://github.com/quilljs/quill/)
 2. 火狐PDF生成库  [PDF](https://github.com/mozilla/pdf.js)
-2. PDF生成库 [jsPDF](https://github.com/MrRio/jsPDF)
-3. api文档生成库 [slate](https://github.com/lord/slate)
+3. PDF生成库 [jsPDF](https://github.com/MrRio/jsPDF)
+4. api文档生成库 [slate](https://github.com/lord/slate)
+5. 操作浏览器代码和测试框架库 [webdriverio](https://github.com/webdriverio/webdriverio)
