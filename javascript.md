@@ -53,5 +53,5 @@
 5. 操作浏览器代码和测试框架库 [webdriverio](https://github.com/webdriverio/webdriverio)
 6. 支持微信小程序开发环境 [went](https://github.com/chemzqm/wept)
 7. markdown 解析库 [markdown-it](https://github.com/markdown-it/markdown-it)
-
+8. API文档生成库 [daux](https://github.com/justinwalsh/daux.io)  
 
