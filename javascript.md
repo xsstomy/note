@@ -23,6 +23,7 @@
 17. [Paperjs](https://github.com/paperjs/paper.js)  paperjs canvas
 18. [anyproxy](https://github.com/alibaba/anyproxy/)  http/https代理
 19. [localForage](https://github.com/localForage/localForage)  localForage 
+20. [lodash.js](https://github.com/lodash/lodash/)  lodashjs
 
 
 
