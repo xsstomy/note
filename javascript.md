@@ -24,9 +24,7 @@
 18. [anyproxy](https://github.com/alibaba/anyproxy/)  http/https代理
 19. [localForage](https://github.com/localForage/localForage)  localForage 
 20. [lodash.js](https://github.com/lodash/lodash/)  lodashjs
-
-
-
+21. [material-design-icons](https://github.com/google/material-design-icons) 谷歌icon
 
 
 
