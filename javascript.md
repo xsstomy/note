@@ -25,9 +25,7 @@
 19. [localForage](https://github.com/localForage/localForage)  localForage 
 20. [lodash.js](https://github.com/lodash/lodash/)  lodashjs
 21. [material-design-icons](https://github.com/google/material-design-icons) 谷歌icon
-
-
-
+22. [fingerprintJS](https://github.com/Valve/fingerprintjs) canvas 指纹
 
 ## 框架
 1. [React](https://github.com/facebook/react)
