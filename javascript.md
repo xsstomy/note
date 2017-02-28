@@ -26,7 +26,7 @@
 20. [lodash.js](https://github.com/lodash/lodash/)  lodashjs
 21. [material-design-icons](https://github.com/google/material-design-icons) 谷歌icon
 22. [fingerprintJS](https://github.com/Valve/fingerprintjs) canvas 指纹
-23. [localForage](https://github.com/localForage/localForage)  离线存储，改进。 使用简单但强大的API包装IndexedDB，WebSQL或localStorage。
+
 
 ## 框架
 1. [React](https://github.com/facebook/react)
