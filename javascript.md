@@ -52,7 +52,7 @@
 6. 支持微信小程序开发环境 [went](https://github.com/chemzqm/wept)
 7. markdown 解析库 [markdown-it](https://github.com/markdown-it/markdown-it)
 8. API文档生成库 [daux](https://github.com/justinwalsh/daux.io)  
-9. API文档生成库 [slate](https://github.com/lord/slate)
+
 
 ## UI 组件库
 1. [semantic](https://github.com/semantic-org/semantic-ui/)
