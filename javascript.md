@@ -39,8 +39,8 @@
 2. [Vue](https://github.com/vuejs/vue)
 
 3. [Node.js](https://nodejs.org/en/)
-> 1. [webdriver](https://github.com/webdriverio/webdriverio/)  操作浏览器或邮箱	
-
+> 1. [webdriver](https://github.com/webdriverio/webdriverio/)  操作浏览器或邮箱
+> 2. [mysql](https://github.com/mysqljs/mysql)  nodejs 连接 mysql 客户端接口库
 
 ## 其他开源库
 1. 富文本编辑器[Quill Rich Text Editor](https://github.com/quilljs/quill/)
