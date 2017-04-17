@@ -57,3 +57,8 @@
 ## UI 组件库
 1. [semantic](https://github.com/semantic-org/semantic-ui/)
 
+## 微信小程序
+
+1. 微信小程序开源项目库汇总[微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
+2. 微信小程序汇总2[微信小程序汇总2](https://github.com/justjavac/awesome-wechat-weapp#%E4%BB%A3%E7%A0%81)
+
